@@ -1,0 +1,23 @@
+{
+  "name": "node_ios_linkup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ezzye/node_ios_linkup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzye/node_ios_linkup/issues"
+  },
+  "homepage": "https://github.com/ezzye/node_ios_linkup",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
