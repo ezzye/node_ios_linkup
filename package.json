@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ezzye/node_ios_linkup",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "express": "^4.13.3",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "mongodb": "^2.0.52"
   }
 }
